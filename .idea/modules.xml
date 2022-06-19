@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OdevArtikYil/OdevArtikYil.iml" filepath="$PROJECT_DIR$/OdevArtikYil/OdevArtikYil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OdevBMI/OdevBMI.iml" filepath="$PROJECT_DIR$/OdevBMI/OdevBMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OdevCinZodyagi/OdevCinZodyagi.iml" filepath="$PROJECT_DIR$/OdevCinZodyagi/OdevCinZodyagi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OdevManav/OdevManav.iml" filepath="$PROJECT_DIR$/OdevManav/OdevManav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OdevUcakBileti/OdevUcakBileti.iml" filepath="$PROJECT_DIR$/OdevUcakBileti/OdevUcakBileti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikBurcBulanProgram/PratikBurcBulanProgram.iml" filepath="$PROJECT_DIR$/PratikBurcBulanProgram/PratikBurcBulanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikDaireAlanCevre/PratikDaireAlanCevre.iml" filepath="$PROJECT_DIR$/PratikDaireAlanCevre/PratikDaireAlanCevre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikEtkinlikOnerme/PratikEtkinlikOnerme.iml" filepath="$PROJECT_DIR$/PratikEtkinlikOnerme/PratikEtkinlikOnerme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikHesapMakinesi/PratikHesapMakinesi.iml" filepath="$PROJECT_DIR$/PratikHesapMakinesi/PratikHesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikHipotenusBulma/PratikHipotenusBulma.iml" filepath="$PROJECT_DIR$/PratikHipotenusBulma/PratikHipotenusBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikKDVTutariHesaplayanProgram/PratikKDVTutariHesaplayanProgram.iml" filepath="$PROJECT_DIR$/PratikKDVTutariHesaplayanProgram/PratikKDVTutariHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikKullaniciGirisi/PratikKullaniciGirisi.iml" filepath="$PROJECT_DIR$/PratikKullaniciGirisi/PratikKullaniciGirisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikNotOrtalamasiHesaplayanProgram/PratikNotOrtalamasiHesaplayanProgram.iml" filepath="$PROJECT_DIR$/PratikNotOrtalamasiHesaplayanProgram/PratikNotOrtalamasiHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikSayiSiralama/PratikSayiSiralama.iml" filepath="$PROJECT_DIR$/PratikSayiSiralama/PratikSayiSiralama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikSinifGecme/PratikSinifGecme.iml" filepath="$PROJECT_DIR$/PratikSinifGecme/PratikSinifGecme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PratikTaksimetre/PratikTaksimetre.iml" filepath="$PROJECT_DIR$/PratikTaksimetre/PratikTaksimetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+    </modules>
+  </component>
+</project>
