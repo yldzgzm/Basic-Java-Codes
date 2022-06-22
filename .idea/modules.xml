@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeworkFibonacci/HomeworkFibonacci.iml" filepath="$PROJECT_DIR$/HomeworkFibonacci/HomeworkFibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkMinMax/HomeworkMinMax.iml" filepath="$PROJECT_DIR$/HomeworkMinMax/HomeworkMinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkPerfectNumbers/HomeworkPerfectNumbers.iml" filepath="$PROJECT_DIR$/HomeworkPerfectNumbers/HomeworkPerfectNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkPrimeNumbers/HomeworkPrimeNumbers.iml" filepath="$PROJECT_DIR$/HomeworkPrimeNumbers/HomeworkPrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkReversedTriangle/HomeworkReversedTriangle.iml" filepath="$PROJECT_DIR$/HomeworkReversedTriangle/HomeworkReversedTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/OdevArtikYil/OdevArtikYil.iml" filepath="$PROJECT_DIR$/OdevArtikYil/OdevArtikYil.iml" />
       <module fileurl="file://$PROJECT_DIR$/OdevBMI/OdevBMI.iml" filepath="$PROJECT_DIR$/OdevBMI/OdevBMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/OdevCinZodyagi/OdevCinZodyagi.iml" filepath="$PROJECT_DIR$/OdevCinZodyagi/OdevCinZodyagi.iml" />
       <module fileurl="file://$PROJECT_DIR$/OdevManav/OdevManav.iml" filepath="$PROJECT_DIR$/OdevManav/OdevManav.iml" />
       <module fileurl="file://$PROJECT_DIR$/OdevUcakBileti/OdevUcakBileti.iml" filepath="$PROJECT_DIR$/OdevUcakBileti/OdevUcakBileti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeATM/PracticeATM.iml" filepath="$PROJECT_DIR$/PracticeATM/PracticeATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeArmstrongNumbers/PracticeArmstrongNumbers.iml" filepath="$PROJECT_DIR$/PracticeArmstrongNumbers/PracticeArmstrongNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeCombination/PracticeCombination.iml" filepath="$PROJECT_DIR$/PracticeCombination/PracticeCombination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeCreatingDiamond/PracticeCreatingDiamond.iml" filepath="$PROJECT_DIR$/PracticeCreatingDiamond/PracticeCreatingDiamond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeEvenOddAnd4/PracticeEvenOddAnd4.iml" filepath="$PROJECT_DIR$/PracticeEvenOddAnd4/PracticeEvenOddAnd4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeGCDandLCM/PracticeGCDandLCM.iml" filepath="$PROJECT_DIR$/PracticeGCDandLCM/PracticeGCDandLCM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeHarmonicNumbers/PracticeHarmonicNumbers.iml" filepath="$PROJECT_DIR$/PracticeHarmonicNumbers/PracticeHarmonicNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeNumbersDivisibleBy3and4/PracticeNumbersDivisibleBy3and4.iml" filepath="$PROJECT_DIR$/PracticeNumbersDivisibleBy3and4/PracticeNumbersDivisibleBy3and4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticePowerOf4and5/PracticePowerOf4and5.iml" filepath="$PROJECT_DIR$/PracticePowerOf4and5/PracticePowerOf4and5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticePowerOfNumbers/PracticePowerOfNumbers.iml" filepath="$PROJECT_DIR$/PracticePowerOfNumbers/PracticePowerOfNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/PratikBurcBulanProgram/PratikBurcBulanProgram.iml" filepath="$PROJECT_DIR$/PratikBurcBulanProgram/PratikBurcBulanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/PratikDaireAlanCevre/PratikDaireAlanCevre.iml" filepath="$PROJECT_DIR$/PratikDaireAlanCevre/PratikDaireAlanCevre.iml" />
       <module fileurl="file://$PROJECT_DIR$/PratikEtkinlikOnerme/PratikEtkinlikOnerme.iml" filepath="$PROJECT_DIR$/PratikEtkinlikOnerme/PratikEtkinlikOnerme.iml" />
